@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+img{
+    width: 20%;
+    margin: auto;
+    margin-top: 10rem;
+}
+input{
+    width: 50%;
+    border-radius: 25px;
+    padding: 8px;
+    margin-top: 40px;
+    border: solid 1px rgb(189, 187, 187);
+}
+button{
+    margin-top: 10px;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    color: rgb(118, 118, 116);
+}
